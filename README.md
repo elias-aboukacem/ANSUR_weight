@@ -42,7 +42,4 @@ This project investigates the relationship between body weight and physical meas
 | ANSUR_final.html             | Final results: visualizations, interpretations, and selected model         |
 
 ### Authors
-Thomas Pichard, Lahontaa Theo
-
-### Authors
 Aboukacem Elias, Pichard Thomas, Lahontaa Theo
